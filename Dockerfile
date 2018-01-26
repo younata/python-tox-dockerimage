@@ -1,3 +1,3 @@
-FROM python:latest
+FROM python:alpine
 
 RUN pip install tox
